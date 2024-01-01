@@ -1,4 +1,4 @@
-# Encrypt-Decrypt
+# Simple caesar-cipher
 
 A simple encrypter. Works by adding or substracting one
 from value of the characthers in a array of chars.
